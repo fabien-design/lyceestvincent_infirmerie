@@ -1,0 +1,12 @@
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\bin\Debug\InfirmerieBLL.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\bin\Debug\InfirmerieBLL.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\bin\Debug\InfirmerieBO.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\bin\Debug\InfirmerieDAL.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\bin\Debug\InfirmerieBO.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\bin\Debug\InfirmerieDAL.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\bin\Debug\InfirmerieDAL.dll.config
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\obj\Debug\InfirmerieBLL.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\obj\Debug\InfirmerieBLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\obj\Debug\InfirmerieBLL.csproj.CopyComplete
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\obj\Debug\InfirmerieBLL.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBLL\obj\Debug\InfirmerieBLL.pdb
