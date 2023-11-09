@@ -1,0 +1,6 @@
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBO\bin\Debug\InfirmerieBO.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBO\bin\Debug\InfirmerieBO.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.pdb

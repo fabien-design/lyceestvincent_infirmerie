@@ -1,0 +1,17 @@
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\GestionInfirmerie.exe.config
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\GestionInfirmerie.exe
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\GestionInfirmerie.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\InfirmerieBLL.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\InfirmerieBO.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\InfirmerieDAL.dll
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\InfirmerieBLL.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\InfirmerieBO.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\InfirmerieDAL.pdb
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\bin\Debug\InfirmerieDAL.dll.config
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\obj\Debug\InfirmerieGUI.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\obj\Debug\InfirmerieGUI.FrmLogin.resources
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\obj\Debug\GestionInfirmerie.Properties.Resources.resources
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\obj\Debug\InfirmerieGUI.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\obj\Debug\InfirmerieGUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\obj\Debug\GestionInfirmerie.exe
+C:\Users\admin\Source\Repos\lyceestvincent_infirmerie\InfirmerieGUI\obj\Debug\GestionInfirmerie.pdb
